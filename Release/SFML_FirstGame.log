@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,64): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,64): warning C4244:         with
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,64): warning C4244:         [
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,64): warning C4244:             T=unsigned int
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,64): warning C4244:         ]
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,39): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,39): warning C4244:         with
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,39): warning C4244:         [
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,39): warning C4244:             T=unsigned int
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(17,39): warning C4244:         ]
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(49,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\kolmi\source\repos\SFML_FirstGame\main.cpp(49,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 93 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SFML_FirstGame.vcxproj -> C:\Users\kolmi\source\repos\SFML_FirstGame\Release\SFML_FirstGame.exe
